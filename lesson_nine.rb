@@ -9,7 +9,7 @@ class BoutiqueInventory
     items.each do |item|
       item_names_arr.push(item[:name])
     end
-    item_names_arr
+    item_names_arr.sort
   end
 
   def cheap
