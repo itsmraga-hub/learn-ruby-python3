@@ -30,6 +30,8 @@ def caesar_cipher(str, num)
 end
 
 puts caesar_cipher("What a string!", 5)
+puts caesar_cipher("Zz", 5)
+puts caesar_cipher("aA", 2)
 # => "Bmfy f xywnsl!"
 
 # puts 'W'.ord
