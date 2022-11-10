@@ -13,10 +13,11 @@ class Acronym
     str_arr.each_with_index {
       |char, i|
       if char == ' ' || char == '-'
-        if str[i + 1] == '-' || char == '-'
+        if str[i + 1] == 'o' && char == '-'
+          output += str[i + 1].upcase
+        elsif str[i + 1] == '-' || char == '-'
           output = output
         elsif char == '-' && str[i + 1] == 'o'
-          puts str[i+1]
           output += str[i + 1].upcase
         else
           output += str[i + 1].upcase
