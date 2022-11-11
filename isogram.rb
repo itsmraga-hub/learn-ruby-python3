@@ -8,18 +8,19 @@ To get started with TDD, see the `README.md` file in your
 
 class Isogram
   def self.isogram?(str)
-    str.downcase!
     len = 0
-    for ch in str.split("")
-      len = str.scan(ch).length
-      if len > 1
-        return "Expected false, '#{str}' is not an isogram"
+    for ch in str.delete('-').downcase.split("")
+      if ch != ' '
+        len = str.downcase.scan(ch).length
+        if len > 1
+          return false
+        end
       end
     end
-    return "Expected true, '#{str}' is an isogram"
+    return true
   end
 end
 
-p Isogram.isogram?('isogram')
+# p Isogram.isogram?('isogram')
 p Isogram.isogram?('Alphabet')
-p Isogram.isogram?('eleven')
+p Isogram.isogram?('zzyzx')
