@@ -111,15 +111,21 @@ def can_double_down(card_one, card_two):
     :param card_one, card_two: str - first and second cards in hand.
     :return: bool - can the hand can be doubled down? (i.e. totals 9, 10 or 11 points).
     """
+    card_one_result = value_of_card(card_one)
+    card_two_result = value_of_card(card_two)
+    total = card_one_result + card_two_result
 
-    pass
-
+    if total == 9 or total == 10 or total == 11:
+      return True
+    return False
 
 # print(higher_card('K', '10'))
 # print(value_of_card(''))
-# print(value_of_ace('6', 'K'))
-# print(value_of_ace('7', '3'))
-print(is_blackjack('A', 'K'))
-print(is_blackjack('10', '9'))
-print(can_split_pairs('Q', 'K'))
-print(can_split_pairs('10', 'A'))
+print(value_of_ace('Q', 'A'))
+print(value_of_ace('2', 'A'))
+# print(is_blackjack('A', 'K'))
+# print(is_blackjack('10', '9'))
+# print(can_split_pairs('Q', 'K'))
+# print(can_split_pairs('10', 'A'))
+# print(can_double_down('A', '9'))
+# print(can_double_down('10', '2'))
