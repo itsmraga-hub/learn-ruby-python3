@@ -15,15 +15,11 @@ def square(number):
   else:
     raise ValueError("square must be between 1 and 64")
 
-import functools
+# import functools
 
 def total():
-    # sum = 0
-    # for i in create_arr():
-    #   sum += i
-
-    # return sum
-    return functools.reduce(lambda a, b: a + b, create_arr(), 0)
+    return 2**(64) - 1
+    # return functools.reduce(lambda a, b: a + b, create_arr(), 0)
 
 # print(square(3))
 print(total())
