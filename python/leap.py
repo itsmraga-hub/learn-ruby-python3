@@ -11,8 +11,18 @@ def leap_year(year):
   print(mod_hund)
   print(mod_four_hund)
 
-  if mod_four % 2 == 0 and mod_hund % 2 == 0:
-     
+  if mod_four_hund % 2 == 0:
+    return True
+
+  # if mod_four % 2 == 0 and mod_hund % 2 == 0:
+  if mod_four % 2 == 0:
+    return True
+
+  if mod_hund % 2 != 0:
+    return False
+
+  return False
+
 
   # if mod_four % 2 == 0:
   #   if mod_hund % 2 == 0:
@@ -23,6 +33,6 @@ def leap_year(year):
   # else:
   #   return False
 
-# print(leap_year(2100))
+print(leap_year(2100))
 print(leap_year(1996))
 print(leap_year(2000))
