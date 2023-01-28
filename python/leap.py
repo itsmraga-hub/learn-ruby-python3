@@ -4,7 +4,10 @@ def leap_year(year):
     except every year that is evenly divisible by 100
     unless the year is also evenly divisible by 400
   """
-  # mod_four = year % 4
+  mod_four = year % 4
+  mod_hund = year % 100
+  mod_four_hund = year % 400
+
   if year % 4 == 0:
     return True
   elif year % 100 == 0:
