@@ -3,7 +3,7 @@ def square_of_sum(number):
   for i in range(1, number + 1):
     sum_square += i
 
-  return sum_square
+  return sum_square ** 2
 
 
 
@@ -16,7 +16,7 @@ def sum_of_squares(number):
   return sum_squares
 
 def difference_of_squares(number):
-  return (square_of_sum(number) ** 2) - sum_of_squares(number)
+  return square_of_sum(number) - sum_of_squares(number)
 
 
 print(difference_of_squares(10))
