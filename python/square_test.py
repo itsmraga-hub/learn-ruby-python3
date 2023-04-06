@@ -49,14 +49,29 @@ from square import Square
 # print("Area: {}".format(my_square_2.area()))
 
 
-my_square = Square(89)
-print("Area: {} for size: {}".format(my_square.area(), my_square.size))
+# my_square = Square(89)
+# print("Area: {} for size: {}".format(my_square.area(), my_square.size))
 
-my_square.size = 3
-print("Area: {} for size: {}".format(my_square.area(), my_square.size))
+# my_square.size = 3
+# print("Area: {} for size: {}".format(my_square.area(), my_square.size))
 
-try:
-    my_square.size = "5 feet"
-    print("Area: {} for size: {}".format(my_square.area(), my_square.size))
-except Exception as e:
-    print(e)
+# try:
+#     my_square.size = "5 feet"
+#     print("Area: {} for size: {}".format(my_square.area(), my_square.size))
+# except Exception as e:
+#     print(e)
+
+my_square = Square(3)
+my_square.my_print()
+
+print("--")
+
+my_square.size = 10
+my_square.my_print()
+
+print("--")
+
+my_square.size = 0
+my_square.my_print()
+
+print("--")
