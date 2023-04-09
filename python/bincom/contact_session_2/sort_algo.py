@@ -16,5 +16,5 @@ def quick_sort(arr):
 
 
 
-sorted_list = quick_sort([1, 7, 9, 5, 4, 3, 2, 1, 4, 5, 8])
+sorted_list = quick_sort([1, 7, 9, 5])
 print(sorted_list)
