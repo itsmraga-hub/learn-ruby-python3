@@ -84,13 +84,39 @@ from rectangle import Rectangle
 
 # Task 6
 
-my_rectangle_1 = Rectangle(2, 4)
-my_rectangle_2 = Rectangle(2, 4)
-print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
-del my_rectangle_1
-print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
-del my_rectangle_2
-print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
+# my_rectangle_1 = Rectangle(2, 4)
+# my_rectangle_2 = Rectangle(2, 4)
+# print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
+# del my_rectangle_1
+# print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
+# del my_rectangle_2
+# print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
 
 
 # Task 7
+
+my_rectangle_1 = Rectangle(8, 4)
+# print(my_rectangle_1.print_symbol)
+print(my_rectangle_1)
+print("--")
+my_rectangle_1.print_symbol = "&"
+# print(my_rectangle_1.print_symbol)
+print(my_rectangle_1)
+print("--")
+
+my_rectangle_2 = Rectangle(2, 1)
+print(my_rectangle_2)
+print("--")
+Rectangle.print_symbol = "C"
+print(my_rectangle_2)
+print("--")
+
+my_rectangle_3 = Rectangle(7, 3)
+print(my_rectangle_3)
+
+print("--")
+
+my_rectangle_3.print_symbol = ["C", "is", "fun!"]
+print(my_rectangle_3)
+
+print("--")
