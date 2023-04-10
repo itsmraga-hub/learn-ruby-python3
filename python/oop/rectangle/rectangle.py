@@ -36,5 +36,20 @@ class Rectangle:
         else:
             self.__height = height
 
-        
+    def area(self):
+        return self.height * self.width
 
+    def perimeter(self):
+        if self.height == 0 or self.width == 0:
+            return 0
+        return (self.height * 2) + (self.width * 2)
+
+    def __str__(self):
+        for j in range(self.height):
+            for i in range(self.width):
+                print('#', end="")
+            print()
+        return ""
+
+    def __repr__(self):
+        return f"Rectangle({self.width}, {self.height})"
