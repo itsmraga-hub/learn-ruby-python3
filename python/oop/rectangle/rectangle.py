@@ -6,6 +6,7 @@
 class Rectangle:
     """A class defining a Rectangle"""
     number_of_instances = 0
+    print_symbol = "#"
 
     def __init__(self, width = 0, height = 0):
         self.__width = width
@@ -50,7 +51,7 @@ class Rectangle:
     def __str__(self):
         for j in range(self.height):
             for i in range(self.width):
-                print('#', end="")
+                print(self.print_symbol, end="")
             print()
         return ""
 
