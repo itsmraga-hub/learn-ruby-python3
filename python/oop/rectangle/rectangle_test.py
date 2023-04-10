@@ -68,13 +68,29 @@ from rectangle import Rectangle
 # print(new_rectangle is my_rectangle)
 # print(type(new_rectangle) is type(my_rectangle))
 
+
 # Task 5
-my_rectangle = Rectangle(2, 4)
-print("Area: {} - Perimeter: {}".format(my_rectangle.area(), my_rectangle.perimeter()))
 
-del my_rectangle
+# my_rectangle = Rectangle(2, 4)
+# print("Area: {} - Perimeter: {}".format(my_rectangle.area(), my_rectangle.perimeter()))
 
-try:
-    print(my_rectangle)
-except Exception as e:
-    print("[{}] {}".format(e.__class__.__name__, e))
+# del my_rectangle
+
+# try:
+#     print(my_rectangle)
+# except Exception as e:
+#     print("[{}] {}".format(e.__class__.__name__, e))
+
+
+# Task 6
+
+my_rectangle_1 = Rectangle(2, 4)
+my_rectangle_2 = Rectangle(2, 4)
+print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
+del my_rectangle_1
+print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
+del my_rectangle_2
+print("{:d} instances of Rectangle".format(Rectangle.number_of_instances))
+
+
+# Task 7
