@@ -28,8 +28,17 @@ const esrever = (list) => {
   return newArr;
 }
 
-console.log(esrever([1, 2, 3, 4, 5]));
-console.log(esrever(["School", 89, { id: 12 }, "String"]));
+// console.log(esrever([1, 2, 3, 4, 5]));
+// console.log(esrever(["School", 89, { id: 12 }, "String"]));
 
 
 // TODO: Task 9
+var count = 0;
+const logMe = (item) => {
+  console.log(count + ": " + item);
+  count++;
+}
+
+logMe("Hello");
+logMe("Best");
+logMe("School");
