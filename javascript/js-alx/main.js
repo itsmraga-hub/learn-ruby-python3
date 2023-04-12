@@ -107,4 +107,12 @@ const computeDict = arr => {
 
 const arr = Object.entries(dict);
 const obj = computeDict(arr);
-console.log(obj);
+// console.log(obj);
+
+
+// TODO: Task 12
+// Write a script that concats 2 files.
+
+// The first argument is the file path of the first source file
+// The second argument is the file path of the second source file
+// The third argument is the file path of the destination
