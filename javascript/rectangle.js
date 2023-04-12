@@ -1,7 +1,8 @@
-class Rectangle {
-
+export default class Rectangle {
+  constructor(w, h) {
+    this.width = w;
+    this.height = h;
+  }
 }
 
-r = new Rectangle()
-console.log(r);
-console.log(r.constructor);
+
