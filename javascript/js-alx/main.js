@@ -51,15 +51,22 @@ const converter = (base) => {
   }
 }
 
-let myConverter = converter(10);
+// let myConverter = converter(10);
 
-console.log(myConverter(2));
-console.log(myConverter(12));
-console.log(myConverter(89));
+// console.log(myConverter(2));
+// console.log(myConverter(12));
+// console.log(myConverter(89));
 
 
-myConverter = converter(16);
+// myConverter = converter(16);
 
-console.log(myConverter(2));
-console.log(myConverter(12));
-console.log(myConverter(89));
+// console.log(myConverter(2));
+// console.log(myConverter(12));
+// console.log(myConverter(89));
+
+
+// TODO: Task 11
+const list = [1, 2, 3, 4, 5];
+const newList = list.map((num, i) => num * i);
+console.log(list);
+console.log(newList);
