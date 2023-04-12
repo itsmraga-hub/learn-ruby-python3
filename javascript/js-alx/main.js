@@ -39,6 +39,27 @@ const logMe = (item) => {
   count++;
 }
 
-logMe("Hello");
-logMe("Best");
-logMe("School");
+// logMe("Hello");
+// logMe("Best");
+// logMe("School");
+
+
+// TODO: Task 10
+const converter = (base) => {
+  return function (num) {
+    return num.toString(base);
+  }
+}
+
+let myConverter = converter(10);
+
+console.log(myConverter(2));
+console.log(myConverter(12));
+console.log(myConverter(89));
+
+
+myConverter = converter(16);
+
+console.log(myConverter(2));
+console.log(myConverter(12));
+console.log(myConverter(89));
