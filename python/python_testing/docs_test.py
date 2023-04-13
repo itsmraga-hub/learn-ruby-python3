@@ -25,9 +25,6 @@ def add_integer(a, b=98):
 # TODO: Task 1
 
 def matrix_divided(matrix, div):
-    """
-    
-    """
     for ls in matrix:
         for item in ls:
             if not isinstance(item, int) and not isinstance(item, float):
@@ -58,5 +55,5 @@ matrix = [
     [4, 5, 6]
 ]
 
-print(matrix_divided(matrix, 3))
-print(matrix)
+# print(matrix_divided(matrix, 3))
+# print(matrix)
