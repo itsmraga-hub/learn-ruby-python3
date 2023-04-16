@@ -1,11 +1,16 @@
 def fibonacci(num):
-    i = 1
+    first_num = 0
+    second_num = 1
+    print(first_num)
     j = 1
-    print(i)
     while j <= num:
-        b = a + i
-        print(a)
-        print(b)
+        third_num = first_num + second_num
+        print(second_num)
         j += 1
+        # temp = second_num
+        first_num = second_num
+        second_num = third_num
+
+
         
-fibonacci(10)
+fibonacci(100)
