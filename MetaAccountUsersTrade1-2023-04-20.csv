@@ -1,0 +1,565 @@
+id,time,digits,spread,ticks_bookdepth,trade_mode,currency_base,currency_profit,currency_margin,description,name
+552,0,2,0,0,4,USD,USD,USD,,USDJPY DFX 20 Index
+551,0,2,0,0,4,USD,USD,USD,,USDCHF DFX 20 Index
+550,0,2,0,0,4,USD,USD,USD,,GBPUSD DFX 20 Index
+549,0,2,0,0,4,USD,USD,USD,,EURUSD DFX 20 Index
+548,0,2,0,0,4,USD,USD,USD,,AUDUSD DFX 20 Index
+547,0,2,0,0,4,USD,USD,USD,,USDJPY DFX 10 Index
+546,0,2,0,0,4,USD,USD,USD,,USDCHF DFX 10 Index
+545,0,2,0,0,4,USD,USD,USD,,GBPUSD DFX 10 Index
+544,0,2,0,0,4,USD,USD,USD,,EURUSD DFX 10 Index
+543,0,2,0,0,4,USD,USD,USD,,AUDUSD DFX 10 Index
+516,0,2,1,0,3,USD,USD,USD,,Volatility 300 (1s) Index
+515,0,2,1,0,3,USD,USD,USD,,Volatility 200 (1s) Index
+514,0,2,3710,0,4,USD,USD,USD,,Volatility 250 (1s) Index
+513,0,2,3100,0,4,USD,USD,USD,,Volatility 150 (1s) Index
+397,0,2,21,0,4,USD,USD,USD,,Volatility 100 (1s) Index
+396,0,2,91,0,4,USD,USD,USD,,Volatility 75 (1s) Index
+395,0,2,6970,0,4,USD,USD,USD,,Volatility 50 (1s) Index
+394,0,2,2543,0,4,USD,USD,USD,,Volatility 25 (1s) Index
+320,0,2,19,0,4,USD,USD,USD,,Volatility 10 (1s) Index
+319,0,2,167,0,4,USD,USD,USD,,Volatility 100 Index
+318,0,2,7100,0,4,USD,USD,USD,,Volatility 75 Index
+317,0,4,220,0,4,USD,USD,USD,,Volatility 50 Index
+316,0,3,98,0,4,USD,USD,USD,,Volatility 25 Index
+315,0,3,140,0,4,USD,USD,USD,,Volatility 10 Index
+270,0,2,0,0,4,USD,USD,USD,,USDJPY DFX 20 Index
+269,0,2,0,0,4,USD,USD,USD,,USDCHF DFX 20 Index
+268,0,2,0,0,4,USD,USD,USD,,GBPUSD DFX 20 Index
+267,0,2,0,0,4,USD,USD,USD,,EURUSD DFX 20 Index
+266,0,2,0,0,4,USD,USD,USD,,AUDUSD DFX 20 Index
+265,0,2,0,0,4,USD,USD,USD,,USDJPY DFX 10 Index
+264,0,2,0,0,4,USD,USD,USD,,USDCHF DFX 10 Index
+263,0,2,0,0,4,USD,USD,USD,,GBPUSD DFX 10 Index
+262,0,2,0,0,4,USD,USD,USD,,EURUSD DFX 10 Index
+261,0,2,0,0,4,USD,USD,USD,,AUDUSD DFX 10 Index
+234,0,2,1,0,3,USD,USD,USD,,Volatility 300 (1s) Index
+233,0,2,1,0,3,USD,USD,USD,,Volatility 200 (1s) Index
+232,0,2,3710,0,4,USD,USD,USD,,Volatility 250 (1s) Index
+231,0,2,3100,0,4,USD,USD,USD,,Volatility 150 (1s) Index
+115,0,2,21,0,4,USD,USD,USD,,Volatility 100 (1s) Index
+114,0,2,91,0,4,USD,USD,USD,,Volatility 75 (1s) Index
+113,0,2,6970,0,4,USD,USD,USD,,Volatility 50 (1s) Index
+112,0,2,2543,0,4,USD,USD,USD,,Volatility 25 (1s) Index
+38,0,2,19,0,4,USD,USD,USD,,Volatility 10 (1s) Index
+37,0,2,167,0,4,USD,USD,USD,,Volatility 100 Index
+36,0,2,7100,0,4,USD,USD,USD,,Volatility 75 Index
+35,0,4,220,0,4,USD,USD,USD,,Volatility 50 Index
+34,0,3,98,0,4,USD,USD,USD,,Volatility 25 Index
+33,0,3,140,0,4,USD,USD,USD,,Volatility 10 Index
+553,0,2,0,10,4,USD,USD,USD,AAVE vs US Dollar,AAVUSD
+271,0,2,0,10,4,USD,USD,USD,AAVE vs US Dollar,AAVUSD
+473,0,2,0,0,4,USD,USD,USD,ARK Innovation ETF CFD,ARKK.US
+191,0,2,0,0,4,USD,USD,USD,ARK Innovation ETF CFD,ARKK.US
+538,0,3,0,0,4,USD,USD,USD,"AUD vs equally weighted basket of (USD,EUR,GBP,JPY,CAD)",AUD Basket
+256,0,3,0,0,4,USD,USD,USD,"AUD vs equally weighted basket of (USD,EUR,GBP,JPY,CAD)",AUD Basket
+400,0,2,0,0,4,EUR,EUR,EUR,Adidas Salomon,ADS
+118,0,2,0,0,4,EUR,EUR,EUR,Adidas Salomon,ADS
+402,0,2,0,0,4,USD,USD,USD,Advanced Micro Devices Inc ,AMD
+120,0,2,0,0,4,USD,USD,USD,Advanced Micro Devices Inc ,AMD
+408,0,2,0,0,4,EUR,EUR,EUR,Air France KLM SA,AIRF
+126,0,2,0,0,4,EUR,EUR,EUR,Air France KLM SA,AIRF
+407,0,2,0,0,4,EUR,EUR,EUR,Airbus SE,AIR
+125,0,2,0,0,4,EUR,EUR,EUR,Airbus SE,AIR
+520,0,4,0,10,4,USD,USD,USD,Algorand vs US Dollar,ALGUSD
+238,0,4,0,10,4,USD,USD,USD,Algorand vs US Dollar,ALGUSD
+405,0,2,0,0,4,USD,USD,USD,Alibaba Group Holding Ltd,BABA
+123,0,2,0,0,4,USD,USD,USD,Alibaba Group Holding Ltd,BABA
+424,0,2,0,0,4,USD,USD,USD,Alphabet Inc Class C,GOOG
+142,0,2,0,0,4,USD,USD,USD,Alphabet Inc Class C,GOOG
+506,0,2,0,0,4,XAL,USD,XAL,Aluminium vs US Dollar,XALUSD
+224,0,2,0,0,4,XAL,USD,XAL,Aluminium vs US Dollar,XALUSD
+403,0,2,0,0,4,USD,USD,USD,Amazon.com Inc,AMZN
+121,0,2,0,0,4,USD,USD,USD,Amazon.com Inc,AMZN
+398,0,2,0,0,4,USD,USD,USD,American Airlines Group Inc,AAL
+116,0,2,0,0,4,USD,USD,USD,American Airlines Group Inc,AAL
+401,0,2,0,0,4,USD,USD,USD,American International Group,AIG
+119,0,2,0,0,4,USD,USD,USD,American International Group,AIG
+466,1681699510,2,209,0,4,USD,USD,USD,An index with 10% volatility and 3 jumps per hour on average,Jump 10 Index
+184,1681699510,2,209,0,4,USD,USD,USD,An index with 10% volatility and 3 jumps per hour on average,Jump 10 Index
+470,0,2,0,0,4,USD,USD,USD,An index with 100% volatility and 3 jumps per hour on average,Jump 100 Index
+188,0,2,0,0,4,USD,USD,USD,An index with 100% volatility and 3 jumps per hour on average,Jump 100 Index
+467,1681699510,2,631,0,4,USD,USD,USD,An index with 25% volatility and 3 jumps per hour on average,Jump 25 Index
+185,1681699510,2,631,0,4,USD,USD,USD,An index with 25% volatility and 3 jumps per hour on average,Jump 25 Index
+468,1681699510,2,407,0,4,USD,USD,USD,An index with 50% volatility and 3 jumps per hour on average,Jump 50 Index
+186,1681699510,2,407,0,4,USD,USD,USD,An index with 50% volatility and 3 jumps per hour on average,Jump 50 Index
+469,1681699510,2,136,0,4,USD,USD,USD,An index with 75% volatility and 3 jumps per hour on average,Jump 75 Index
+187,1681699510,2,136,0,4,USD,USD,USD,An index with 75% volatility and 3 jumps per hour on average,Jump 75 Index
+554,0,3,0,10,4,USD,USD,USD,ApeCoin vs US Dollar,APEUSD
+272,0,3,0,10,4,USD,USD,USD,ApeCoin vs US Dollar,APEUSD
+399,0,2,0,0,4,USD,USD,USD,Apple,AAPL
+117,0,2,0,0,4,USD,USD,USD,Apple,AAPL
+363,0,5,0,0,4,AUD,CAD,AUD,Austalian Dollar vs Canadian Dollar  micro (1 lot=1000 units),AUDCADmicro
+81,0,5,0,0,4,AUD,CAD,AUD,Austalian Dollar vs Canadian Dollar  micro (1 lot=1000 units),AUDCADmicro
+366,0,5,0,0,4,AUD,NZD,AUD,Austalian Dollar vs New Zealand Dollar micro (1 lot=1000 units),AUDNZDmicro
+84,0,5,0,0,4,AUD,NZD,AUD,Austalian Dollar vs New Zealand Dollar micro (1 lot=1000 units),AUDNZDmicro
+364,0,5,0,0,4,AUD,CHF,AUD,Austalian Dollar vs Swiss Franc micro (1 lot=1000 units),AUDCHFmicro
+82,0,5,0,0,4,AUD,CHF,AUD,Austalian Dollar vs Swiss Franc micro (1 lot=1000 units),AUDCHFmicro
+367,1681699506,5,6,0,4,AUD,USD,AUD,Austalian Dollar vs US Dollar  micro (1 lot=1000 units),AUDUSDmicro
+85,1681699506,5,6,0,4,AUD,USD,AUD,Austalian Dollar vs US Dollar  micro (1 lot=1000 units),AUDUSDmicro
+384,0,2,0,0,4,AUD,AUD,AUD,Australia 200,AUS_200
+102,0,2,0,0,4,AUD,AUD,AUD,Australia 200,AUS_200
+283,0,5,0,0,4,AUD,CAD,AUD,Australian Dollar vs Canadian Dollar,AUDCAD
+1,0,5,0,0,4,AUD,CAD,AUD,Australian Dollar vs Canadian Dollar,AUDCAD
+286,0,3,0,0,4,AUD,JPY,AUD,Australian Dollar vs Japanese Yen,AUDJPY
+4,0,3,0,0,4,AUD,JPY,AUD,Australian Dollar vs Japanese Yen,AUDJPY
+365,0,3,0,0,4,AUD,JPY,AUD,Australian Dollar vs Japanese Yen micro (1 lot=1000 units),AUDJPYmicro
+83,0,3,0,0,4,AUD,JPY,AUD,Australian Dollar vs Japanese Yen micro (1 lot=1000 units),AUDJPYmicro
+285,0,5,0,0,4,AUD,NZD,AUD,Australian Dollar vs New Zealand Dollar,AUDNZD
+3,0,5,0,0,4,AUD,NZD,AUD,Australian Dollar vs New Zealand Dollar,AUDNZD
+338,0,5,0,0,4,AUD,SGD,AUD,Australian Dollar vs Singapore Dollar,AUDSGD
+56,0,5,0,0,4,AUD,SGD,AUD,Australian Dollar vs Singapore Dollar,AUDSGD
+284,0,5,0,0,4,AUD,CHF,AUD,Australian Dollar vs Swiss Franc,AUDCHF
+2,0,5,0,0,4,AUD,CHF,AUD,Australian Dollar vs Swiss Franc,AUDCHF
+287,1681699506,5,4,0,4,AUD,USD,AUD,Australian Dollar vs US Dollar,AUDUSD
+5,1681699506,5,4,0,4,AUD,USD,AUD,Australian Dollar vs US Dollar,AUDUSD
+537,0,2,0,10,4,USD,USD,USD,Avalanche vs US Dollar,AVAUSD
+255,0,2,0,10,4,USD,USD,USD,Avalanche vs US Dollar,AVAUSD
+410,0,2,0,0,4,EUR,EUR,EUR,BMW,BMW
+128,0,2,0,0,4,EUR,EUR,EUR,BMW,BMW
+406,0,2,0,0,4,USD,USD,USD,Bank of America,BAC
+124,0,2,0,0,4,USD,USD,USD,Bank of America,BAC
+521,0,5,0,10,4,USD,USD,USD,Basic Attention Token vs US Dollar,BATUSD
+239,0,5,0,10,4,USD,USD,USD,Basic Attention Token vs US Dollar,BATUSD
+409,0,2,0,0,4,EUR,EUR,EUR,Bayer AG,BAY
+127,0,2,0,0,4,EUR,EUR,EUR,Bayer AG,BAY
+326,0,3,0,10,4,USD,USD,USD,Binance Coin vs US Dollar,BNBUSD
+44,0,3,0,10,4,USD,USD,USD,Binance Coin vs US Dollar,BNBUSD
+325,0,3,0,0,4,USD,USD,USD,Bitcoin Cash vs US Dollar,BCHUSD
+43,0,3,0,0,4,USD,USD,USD,Bitcoin Cash vs US Dollar,BCHUSD
+450,0,3,0,0,0,BCH,USD,USD,"Bitcoin Cash vs USD, used for conversion, not for trading",BCHUSD.conv
+168,0,3,0,0,0,BCH,USD,USD,"Bitcoin Cash vs USD, used for conversion, not for trading",BCHUSD.conv
+464,0,5,0,10,4,ETH,ETH,ETH,Bitcoin vs Ethereum,BTCETH
+182,0,5,0,10,4,ETH,ETH,ETH,Bitcoin vs Ethereum,BTCETH
+455,0,4,0,10,0,XAU,XAU,XAU,Bitcoin vs Gold,BTCXAU
+173,0,4,0,10,0,XAU,XAU,XAU,Bitcoin vs Gold,BTCXAU
+465,0,5,0,10,4,LTC,LTC,LTC,Bitcoin vs Litecoin,BTCLTC
+183,0,5,0,10,4,LTC,LTC,LTC,Bitcoin vs Litecoin,BTCLTC
+454,0,4,0,10,0,XAG,XAG,XAG,Bitcoin vs Silver,BTCXAG
+172,0,4,0,10,0,XAG,XAG,XAG,Bitcoin vs Silver,BTCXAG
+327,0,3,0,10,4,USD,USD,USD,Bitcoin vs US Dollar,BTCUSD
+45,0,3,0,10,4,USD,USD,USD,Bitcoin vs US Dollar,BTCUSD
+452,0,3,0,0,0,BTC,USD,USD,"Bitcoin vs USD, used for conversion, not for trading",BTCUSD.conv
+170,0,3,0,0,0,BTC,USD,USD,"Bitcoin vs USD, used for conversion, not for trading",BTCUSD.conv
+404,0,2,0,0,4,USD,USD,USD,Boeing,BA
+122,0,2,0,0,4,USD,USD,USD,Boeing,BA
+356,0,3,0,0,4,USD,USD,USD,Brent crude oil,CL_BRENT
+74,0,3,0,0,4,USD,USD,USD,Brent crude oil,CL_BRENT
+294,0,3,0,0,4,CAD,JPY,CAD,Canadian Dollar vs Japanese Yen,CADJPY
+12,0,3,0,0,4,CAD,JPY,CAD,Canadian Dollar vs Japanese Yen,CADJPY
+293,0,5,0,0,4,CAD,CHF,CAD,Canadian Dollar vs Swiss Franc,CADCHF
+11,0,5,0,0,4,CAD,CHF,CAD,Canadian Dollar vs Swiss Franc,CADCHF
+519,0,5,0,10,4,USD,USD,USD,Cardano vs US Dollar,ADAUSD
+237,0,5,0,10,4,USD,USD,USD,Cardano vs US Dollar,ADAUSD
+526,0,3,0,10,4,USD,USD,USD,Chainlink vs US Dollar,LNKUSD
+244,0,3,0,10,4,USD,USD,USD,Chainlink vs US Dollar,LNKUSD
+413,0,2,0,0,4,USD,USD,USD,Cisco Systems,CSCO
+131,0,2,0,0,4,USD,USD,USD,Cisco Systems,CSCO
+411,0,2,0,0,4,USD,USD,USD,Citigroup,C
+129,0,2,0,0,4,USD,USD,USD,Citigroup,C
+432,0,2,0,0,4,USD,USD,USD,Coca-Cola,KO
+150,0,2,0,0,4,USD,USD,USD,Coca-Cola,KO
+416,0,2,0,0,4,EUR,EUR,EUR,Continental AG,CONG
+134,0,2,0,0,4,EUR,EUR,EUR,Continental AG,CONG
+507,0,2,0,0,4,XCU,USD,XCU,Copper vs US Dollar,XCUUSD
+225,0,2,0,0,4,XCU,USD,XCU,Copper vs US Dollar,XCUUSD
+555,0,3,0,10,4,USD,USD,USD,Cosmos vs US Dollar,ATMUSD
+273,0,3,0,10,4,USD,USD,USD,Cosmos vs US Dollar,ATMUSD
+328,0,3,0,10,4,USD,USD,USD,Dash vs US Dollar,DSHUSD
+46,0,3,0,10,4,USD,USD,USD,Dash vs US Dollar,DSHUSD
+562,0,4,0,10,4,USD,USD,USD,Decentraland vs US Dollar,MANUSD
+280,0,4,0,10,4,USD,USD,USD,Decentraland vs US Dollar,MANUSD
+414,0,2,0,0,4,USD,USD,USD,Delta Air Lines,DAL
+132,0,2,0,0,4,USD,USD,USD,Delta Air Lines,DAL
+417,0,2,0,0,4,EUR,EUR,EUR,Deutsche Bank AG,DBK
+135,0,2,0,0,4,EUR,EUR,EUR,Deutsche Bank AG,DBK
+477,0,2,0,0,4,USD,USD,USD,Direxion Daily Energy Bull 2x Shares CFD,ERX.US
+195,0,2,0,0,4,USD,USD,USD,Direxion Daily Energy Bull 2x Shares CFD,ERX.US
+490,0,2,0,0,4,USD,USD,USD,Direxion Daily S&P 500 Bear 3X Shares ETF CFD,SPXS.US
+208,0,2,0,0,4,USD,USD,USD,Direxion Daily S&P 500 Bear 3X Shares ETF CFD,SPXS.US
+522,0,5,0,10,4,USD,USD,USD,Dogecoin vs US Dollar,DOGUSD
+240,0,5,0,10,4,USD,USD,USD,Dogecoin vs US Dollar,DOGUSD
+329,0,5,0,10,4,USD,USD,USD,EOS vs US Dollar,EOSUSD
+47,0,5,0,10,4,USD,USD,USD,EOS vs US Dollar,EOSUSD
+539,0,3,0,0,4,USD,USD,USD,"EUR vs equally weighted basket of (USD,AUD,GBP,JPY,CAD)",EUR Basket
+257,0,3,0,0,4,USD,USD,USD,"EUR vs equally weighted basket of (USD,AUD,GBP,JPY,CAD)",EUR Basket
+500,0,2,0,0,4,USD,USD,USD,Energy Select Sector SPDR Fund ETF CFD,XLE.US
+218,0,2,0,0,4,USD,USD,USD,Energy Select Sector SPDR Fund ETF CFD,XLE.US
+556,0,4,0,10,4,USD,USD,USD,Enjin Coin vs US Dollar,ENJUSD
+274,0,4,0,10,4,USD,USD,USD,Enjin Coin vs US Dollar,ENJUSD
+362,0,1,1,0,4,USD,USD,USD,Equal probability of up/down with fixed step size of 0.1,Step Index
+80,0,1,1,0,4,USD,USD,USD,Equal probability of up/down with fixed step size of 0.1,Step Index
+524,0,3,0,10,4,USD,USD,USD,Ethereum Classic vs US Dollar,ETCUSD
+242,0,3,0,10,4,USD,USD,USD,Ethereum Classic vs US Dollar,ETCUSD
+330,0,5,0,0,4,USD,USD,USD,Ethereum vs US Dollar,ETHUSD
+48,0,5,0,0,4,USD,USD,USD,Ethereum vs US Dollar,ETHUSD
+451,0,2,0,0,0,ETH,USD,USD,"Ethereum vs USD, used for conversion, not for trading",ETHUSD.conv
+169,0,2,0,0,0,ETH,USD,USD,"Ethereum vs USD, used for conversion, not for trading",ETHUSD.conv
+288,0,5,0,0,4,EUR,AUD,EUR,Euro vs Australian Dollar,EURAUD
+6,0,5,0,0,4,EUR,AUD,EUR,Euro vs Australian Dollar,EURAUD
+368,0,5,0,0,4,EUR,AUD,EUR,Euro vs Australian Dollar micro (1 lot=1000 units),EURAUDmicro
+86,0,5,0,0,4,EUR,AUD,EUR,Euro vs Australian Dollar micro (1 lot=1000 units),EURAUDmicro
+289,0,5,0,0,4,EUR,CAD,EUR,Euro vs Canadian Dollar,EURCAD
+7,0,5,0,0,4,EUR,CAD,EUR,Euro vs Canadian Dollar,EURCAD
+369,0,5,0,0,4,EUR,CAD,EUR,Euro vs Canadian Dollar micro (1 lot=1000 units),EURCADmicro
+87,0,5,0,0,4,EUR,CAD,EUR,Euro vs Canadian Dollar micro (1 lot=1000 units),EURCADmicro
+291,0,5,0,0,4,EUR,GBP,EUR,Euro vs Great Britain Pound ,EURGBP
+9,0,5,0,0,4,EUR,GBP,EUR,Euro vs Great Britain Pound ,EURGBP
+371,0,5,0,0,4,EUR,GBP,EUR,Euro vs Great Britain Pound micro (1 lot=1000 units),EURGBPmicro
+89,0,5,0,0,4,EUR,GBP,EUR,Euro vs Great Britain Pound micro (1 lot=1000 units),EURGBPmicro
+339,0,5,0,0,4,EUR,HKD,EUR,Euro vs Hong Kong Dollar,EURHKD
+57,0,5,0,0,4,EUR,HKD,EUR,Euro vs Hong Kong Dollar,EURHKD
+340,0,5,0,0,4,EUR,ILS,EUR,Euro vs Israeli New Shekel,EURILS
+58,0,5,0,0,4,EUR,ILS,EUR,Euro vs Israeli New Shekel,EURILS
+292,0,3,0,0,4,EUR,JPY,EUR,Euro vs Japanese Yen,EURJPY
+10,0,3,0,0,4,EUR,JPY,EUR,Euro vs Japanese Yen,EURJPY
+372,0,3,0,0,4,EUR,JPY,EUR,Euro vs Japanese Yen micro (1 lot=1000 units),EURJPYmicro
+90,0,3,0,0,4,EUR,JPY,EUR,Euro vs Japanese Yen micro (1 lot=1000 units),EURJPYmicro
+341,0,5,0,0,4,EUR,MXN,EUR,Euro vs Mexican Peso,EURMXN
+59,0,5,0,0,4,EUR,MXN,EUR,Euro vs Mexican Peso,EURMXN
+297,0,5,0,0,4,EUR,NZD,EUR,Euro vs New Zealand Dollar,EURNZD
+15,0,5,0,0,4,EUR,NZD,EUR,Euro vs New Zealand Dollar,EURNZD
+373,0,5,0,0,4,EUR,NZD,EUR,Euro vs New Zealand Dollar micro (1 lot=1000 units),EURNZDmicro
+91,0,5,0,0,4,EUR,NZD,EUR,Euro vs New Zealand Dollar micro (1 lot=1000 units),EURNZDmicro
+296,0,5,0,0,4,EUR,NOK,EUR,Euro vs Norwegian Krone,EURNOK
+14,0,5,0,0,4,EUR,NOK,EUR,Euro vs Norwegian Krone,EURNOK
+298,0,5,0,0,4,EUR,PLN,EUR,Euro vs Polish Zloty,EURPLN
+16,0,5,0,0,4,EUR,PLN,EUR,Euro vs Polish Zloty,EURPLN
+342,0,5,0,0,4,EUR,SGD,EUR,Euro vs Singapore Dollar,EURSGD
+60,0,5,0,0,4,EUR,SGD,EUR,Euro vs Singapore Dollar,EURSGD
+344,0,5,0,0,4,EUR,ZAR,EUR,Euro vs South African Rand,EURZAR
+62,0,5,0,0,4,EUR,ZAR,EUR,Euro vs South African Rand,EURZAR
+299,0,5,0,0,4,EUR,SEK,EUR,Euro vs Swedish Krona,EURSEK
+17,0,5,0,0,4,EUR,SEK,EUR,Euro vs Swedish Krona,EURSEK
+290,0,5,0,0,4,EUR,CHF,EUR,Euro vs Swiss Franc,EURCHF
+8,0,5,0,0,4,EUR,CHF,EUR,Euro vs Swiss Franc,EURCHF
+370,0,5,0,0,4,EUR,CHF,EUR,Euro vs Swiss Franc micro (1 lot=1000 units),EURCHFmicro
+88,0,5,0,0,4,EUR,CHF,EUR,Euro vs Swiss Franc micro (1 lot=1000 units),EURCHFmicro
+343,0,5,0,0,0,EUR,TRY,EUR,Euro vs Turkish Lira,EURTRY
+61,0,5,0,0,0,EUR,TRY,EUR,Euro vs Turkish Lira,EURTRY
+301,1681699509,5,6,0,4,EUR,USD,EUR,Euro vs US Dollar,EURUSD
+19,1681699509,5,6,0,4,EUR,USD,EUR,Euro vs US Dollar,EURUSD
+374,0,5,0,0,4,EUR,USD,EUR,Euro vs US Dollar micro (1 lot=1000 units),EURUSDmicro
+92,0,5,0,0,4,EUR,USD,EUR,Euro vs US Dollar micro (1 lot=1000 units),EURUSDmicro
+387,0,2,0,0,4,EUR,EUR,EUR,Europe 50,EUR_50
+105,0,2,0,0,4,EUR,EUR,EUR,Europe 50,EUR_50
+557,0,3,0,10,3,USD,USD,USD,FTX vs US Dollar,FTTUSD
+275,0,3,0,10,3,USD,USD,USD,FTX vs US Dollar,FTTUSD
+421,0,2,0,0,4,USD,USD,USD,Fedex,FDX
+139,0,2,0,0,4,USD,USD,USD,Fedex,FDX
+525,0,2,0,10,4,USD,USD,USD,Filecoin vs US Dollar,FILUSD
+243,0,2,0,10,4,USD,USD,USD,Filecoin vs US Dollar,FILUSD
+501,0,2,0,0,4,USD,USD,USD,Financial Select Sector SPDR ETF CFD,XLF.US
+219,0,2,0,0,4,USD,USD,USD,Financial Select Sector SPDR ETF CFD,XLF.US
+422,0,2,0,0,4,USD,USD,USD,Fox Corporation B,FOX
+140,0,2,0,0,4,USD,USD,USD,Fox Corporation B,FOX
+388,0,2,0,0,4,EUR,EUR,EUR,France 40,FRA_40
+106,0,2,0,0,4,EUR,EUR,EUR,France 40,FRA_40
+540,0,3,0,0,4,USD,USD,USD,"GBP vs equally weighted basket of (USD,EUR,AUD,JPY,CAD)",GBP Basket
+258,0,3,0,0,4,USD,USD,USD,"GBP vs equally weighted basket of (USD,EUR,AUD,JPY,CAD)",GBP Basket
+423,0,2,0,0,4,USD,USD,USD,General Motors Company,GM
+141,0,2,0,0,4,USD,USD,USD,General Motors Company,GM
+385,0,2,0,0,4,EUR,EUR,EUR,Germany 40,DAX_40
+103,0,2,0,0,4,EUR,EUR,EUR,Germany 40,DAX_40
+504,0,2,0,0,4,XAU,EUR,XAU,Gold vs Euro,XAUEUR
+222,0,2,0,0,4,XAU,EUR,XAU,Gold vs Euro,XAUEUR
+322,0,2,0,0,4,XAU,USD,XAU,Gold vs US Dollar,XAUUSD
+40,0,2,0,0,4,XAU,USD,XAU,Gold vs US Dollar,XAUUSD
+511,0,2,0,0,0,XAU,USD,XAU,"Gold vs US Dollar, used for conversion, not for trading",XAUUSD.conv
+229,0,2,0,0,0,XAU,USD,XAU,"Gold vs US Dollar, used for conversion, not for trading",XAUUSD.conv
+425,0,2,0,0,4,USD,USD,USD,Goldman Sachs Group,GS
+143,0,2,0,0,4,USD,USD,USD,Goldman Sachs Group,GS
+302,0,5,0,0,4,GBP,AUD,GBP,Great Britain Pound vs Australian Dollar,GBPAUD
+20,0,5,0,0,4,GBP,AUD,GBP,Great Britain Pound vs Australian Dollar,GBPAUD
+300,0,5,0,0,4,GBP,CAD,GBP,Great Britain Pound vs Canadian Dollar,GBPCAD
+18,0,5,0,0,4,GBP,CAD,GBP,Great Britain Pound vs Canadian Dollar,GBPCAD
+304,0,3,0,0,4,GBP,JPY,GBP,Great Britain Pound vs Japanese Yen,GBPJPY
+22,0,3,0,0,4,GBP,JPY,GBP,Great Britain Pound vs Japanese Yen,GBPJPY
+376,0,3,0,0,4,GBP,JPY,GBP,Great Britain Pound vs Japanese Yen micro (1 lot=1000 units),GBPJPYmicro
+94,0,3,0,0,4,GBP,JPY,GBP,Great Britain Pound vs Japanese Yen micro (1 lot=1000 units),GBPJPYmicro
+307,0,5,0,0,4,GBP,NZD,GBP,Great Britain Pound vs New Zealand Dollar,GBPNZD
+25,0,5,0,0,4,GBP,NZD,GBP,Great Britain Pound vs New Zealand Dollar,GBPNZD
+345,0,5,0,0,4,GBP,SGD,GBP,Great Britain Pound vs Singapore Dollar,GBPSGD
+63,0,5,0,0,4,GBP,SGD,GBP,Great Britain Pound vs Singapore Dollar,GBPSGD
+303,0,5,0,0,4,GBP,CHF,GBP,Great Britain Pound vs Swiss Franc,GBPCHF
+21,0,5,0,0,4,GBP,CHF,GBP,Great Britain Pound vs Swiss Franc,GBPCHF
+375,0,5,0,0,4,GBP,CHF,GBP,Great Britain Pound vs Swiss Franc micro (1 lot=1000 units),GBPCHFmicro
+93,0,5,0,0,4,GBP,CHF,GBP,Great Britain Pound vs Swiss Franc micro (1 lot=1000 units),GBPCHFmicro
+305,1681699507,5,9,0,4,GBP,USD,GBP,Great Britain Pound vs US Dollar,GBPUSD
+23,1681699507,5,9,0,4,GBP,USD,GBP,Great Britain Pound vs US Dollar,GBPUSD
+377,1681699507,5,12,0,4,GBP,USD,GBP,Great Britain Pound vs US Dollar micro (1 lot=1000 units),GBPUSDmicro
+95,1681699507,5,12,0,4,GBP,USD,GBP,Great Britain Pound vs US Dollar micro (1 lot=1000 units),GBPUSDmicro
+306,0,5,0,0,4,GBP,NOK,GBP,Great British Pound vs Norwegian Krone,GBPNOK
+24,0,5,0,0,4,GBP,NOK,GBP,Great British Pound vs Norwegian Krone,GBPNOK
+308,0,5,0,0,4,GBP,SEK,GBP,Great British Pound vs Swedish Krona,GBPSEK
+26,0,5,0,0,4,GBP,SEK,GBP,Great British Pound vs Swedish Krona,GBPSEK
+427,0,2,0,0,4,USD,USD,USD,HP Inc,HPQ
+145,0,2,0,0,4,USD,USD,USD,HP Inc,HPQ
+426,0,2,0,0,4,USD,USD,USD,Home Depot Inc,HD
+144,0,2,0,0,4,USD,USD,USD,Home Depot Inc,HD
+346,0,3,0,0,4,HKD,JPY,HKD,Hong Kong Dollar Vs Japanese Yen,HKDJPY
+64,0,3,0,0,4,HKD,JPY,HKD,Hong Kong Dollar Vs Japanese Yen,HKDJPY
+415,0,2,0,0,0,EUR,EUR,EUR,Hugo Boss AG,BOSS
+133,0,2,0,0,0,EUR,EUR,EUR,Hugo Boss AG,BOSS
+428,0,2,0,0,4,USD,USD,USD,IBM,IBM
+146,0,2,0,0,4,USD,USD,USD,IBM,IBM
+459,0,4,0,10,4,USD,USD,USD,IOTA vs US Dollar,IOTUSD
+177,0,4,0,10,4,USD,USD,USD,IOTA vs US Dollar,IOTUSD
+382,0,1,10,0,4,USD,USD,USD,Index that breaks the range once every 100 attempts on average,Range Break 100 Index
+100,0,1,10,0,4,USD,USD,USD,Index that breaks the range once every 100 attempts on average,Range Break 100 Index
+383,0,1,10,0,4,USD,USD,USD,Index that breaks the range once every 200 attempts on average,Range Break 200 Index
+101,0,1,10,0,4,USD,USD,USD,Index that breaks the range once every 200 attempts on average,Range Break 200 Index
+429,0,2,0,0,4,USD,USD,USD,Intel,INTC
+147,0,2,0,0,4,USD,USD,USD,Intel,INTC
+431,0,2,0,0,4,USD,USD,USD,JP Morgan Chase,JPM
+149,0,2,0,0,4,USD,USD,USD,JP Morgan Chase,JPM
+389,0,2,0,0,4,JPY,JPY,JPY,Japan 225,JP_225
+107,0,2,0,0,4,JPY,JPY,JPY,Japan 225,JP_225
+430,0,2,0,0,4,USD,USD,USD,Jonhson & Johnson,JNJ
+148,0,2,0,0,4,USD,USD,USD,Jonhson & Johnson,JNJ
+559,0,3,0,10,4,USD,USD,USD,Kyber vs US Dollar,KNCUSD
+277,0,3,0,10,4,USD,USD,USD,Kyber vs US Dollar,KNCUSD
+509,0,2,0,0,4,XPB,USD,XPB,Lead vs US Dollar,XPBUSD
+227,0,2,0,0,4,XPB,USD,XPB,Lead vs US Dollar,XPBUSD
+331,0,5,0,10,4,USD,USD,USD,Litecoin vs US Dollar,LTCUSD
+49,0,5,0,10,4,USD,USD,USD,Litecoin vs US Dollar,LTCUSD
+471,0,5,0,0,0,LTC,USD,USD,"Litecoin vs USD, used for conversion, not for trading",LTCUSD.conv
+189,0,5,0,0,0,LTC,USD,USD,"Litecoin vs USD, used for conversion, not for trading",LTCUSD.conv
+560,0,3,0,10,4,USD,USD,USD,Livepeer vs US Dollar,LPTUSD
+278,0,3,0,10,4,USD,USD,USD,Livepeer vs US Dollar,LPTUSD
+561,0,4,0,10,4,USD,USD,USD,Loopring vs US Dollar,LRCUSD
+279,0,4,0,10,4,USD,USD,USD,Loopring vs US Dollar,LRCUSD
+532,0,2,0,0,4,EUR,EUR,EUR,Lufthansa AG,LHAG
+250,0,2,0,0,4,EUR,EUR,EUR,Lufthansa AG,LHAG
+527,0,2,0,10,4,USD,USD,USD,Maker vs US Dollar,MKRUSD
+245,0,2,0,10,4,USD,USD,USD,Maker vs US Dollar,MKRUSD
+478,0,2,0,0,4,USD,USD,USD,Market Vectors Gold Miners ETF CFD,GDX.US
+196,0,2,0,0,4,USD,USD,USD,Market Vectors Gold Miners ETF CFD,GDX.US
+433,0,2,0,0,4,USD,USD,USD,Mastercard Inc,MA
+151,0,2,0,0,4,USD,USD,USD,Mastercard Inc,MA
+434,0,2,0,0,4,USD,USD,USD,McDonalds,MCD
+152,0,2,0,0,4,USD,USD,USD,McDonalds,MCD
+420,0,2,0,0,4,USD,USD,USD,Meta Platforms Inc,FB
+138,0,2,0,0,4,USD,USD,USD,Meta Platforms Inc,FB
+436,0,2,0,0,4,USD,USD,USD,Microsoft Corporation,MSFT
+154,0,2,0,0,4,USD,USD,USD,Microsoft Corporation,MSFT
+435,0,2,0,0,4,USD,USD,USD,Moderna Inc.,MRNA
+153,0,2,0,0,4,USD,USD,USD,Moderna Inc.,MRNA
+456,0,3,0,10,4,USD,USD,USD,Monero vs US Dollar,XMRUSD
+174,0,3,0,10,4,USD,USD,USD,Monero vs US Dollar,XMRUSD
+439,0,2,0,0,4,USD,USD,USD,NVIDIA Corp,NVDA
+157,0,2,0,0,4,USD,USD,USD,NVIDIA Corp,NVDA
+460,0,2,0,10,4,USD,USD,USD,Neo vs US Dollar,NEOUSD
+178,0,2,0,10,4,USD,USD,USD,Neo vs US Dollar,NEOUSD
+533,0,2,0,0,0,CHF,CHF,CHF,Nestle SA,NESN
+251,0,2,0,0,0,CHF,CHF,CHF,Nestle SA,NESN
+437,0,2,0,0,4,USD,USD,USD,Netflix Inc,NFLX
+155,0,2,0,0,4,USD,USD,USD,Netflix Inc,NFLX
+390,0,2,0,0,4,EUR,EUR,EUR,Netherlands 25,NED_25
+108,0,2,0,0,4,EUR,EUR,EUR,Netherlands 25,NED_25
+309,0,5,0,0,4,NZD,CAD,NZD,New Zealand Dollar vs Canadian Dollar,NZDCAD
+27,0,5,0,0,4,NZD,CAD,NZD,New Zealand Dollar vs Canadian Dollar,NZDCAD
+310,0,3,0,0,4,NZD,JPY,NZD,New Zealand Dollar vs Japanese Yen,NZDJPY
+28,0,3,0,0,4,NZD,JPY,NZD,New Zealand Dollar vs Japanese Yen,NZDJPY
+348,0,5,0,0,4,NZD,SGD,NZD,New Zealand Dollar vs Singapore Dollar,NZDSGD
+66,0,5,0,0,4,NZD,SGD,NZD,New Zealand Dollar vs Singapore Dollar,NZDSGD
+347,0,5,0,0,4,NZD,CHF,NZD,New Zealand Dollar vs Swiss Franc,NZDCHF
+65,0,5,0,0,4,NZD,CHF,NZD,New Zealand Dollar vs Swiss Franc,NZDCHF
+311,1681699507,5,10,0,4,NZD,USD,NZD,New Zealand Dollar vs US Dollar,NZDUSD
+29,1681699507,5,10,0,4,NZD,USD,NZD,New Zealand Dollar vs US Dollar,NZDUSD
+378,1681699507,5,10,0,4,NZD,USD,NZD,New Zealand Dollar vs US Dollar micro (1 lot=1000 units),NZDUSDmicro
+96,1681699507,5,10,0,4,NZD,USD,NZD,New Zealand Dollar vs US Dollar micro (1 lot=1000 units),NZDUSDmicro
+508,0,2,0,0,4,XNI,USD,XNI,Nickel vs US Dollar,XNIUSD
+226,0,2,0,0,4,XNI,USD,XNI,Nickel vs US Dollar,XNIUSD
+438,0,2,0,0,4,USD,USD,USD,Nike,NKE
+156,0,2,0,0,4,USD,USD,USD,Nike,NKE
+534,0,2,0,0,0,CHF,CHF,CHF,Novartis AG,NOVN
+252,0,2,0,0,0,CHF,CHF,CHF,Novartis AG,NOVN
+461,0,3,0,10,4,USD,USD,USD,OmiseGo vs US Dollar,OMGUSD
+179,0,3,0,10,4,USD,USD,USD,OmiseGo vs US Dollar,OMGUSD
+360,1681699510,4,900,0,4,USD,USD,USD,On average 1 drop occurs in the price series every 1000 ticks,Crash 1000 Index
+78,1681699510,4,900,0,4,USD,USD,USD,On average 1 drop occurs in the price series every 1000 ticks,Crash 1000 Index
+518,1681699510,3,266,0,4,USD,USD,USD,On average 1 drop occurs in the price series every 300 ticks,Crash 300 Index
+236,1681699510,3,266,0,4,USD,USD,USD,On average 1 drop occurs in the price series every 300 ticks,Crash 300 Index
+361,1681699510,3,104,0,4,USD,USD,USD,On average 1 drop occurs in the price series every 500 ticks,Crash 500 Index
+79,1681699510,3,104,0,4,USD,USD,USD,On average 1 drop occurs in the price series every 500 ticks,Crash 500 Index
+358,1681699510,4,1270,0,4,USD,USD,USD,On average 1 spike occurs in the price series every 1000 ticks,Boom 1000 Index
+76,1681699510,4,1270,0,4,USD,USD,USD,On average 1 spike occurs in the price series every 1000 ticks,Boom 1000 Index
+517,1681699510,3,28,0,4,USD,USD,USD,On average 1 spike occurs in the price series every 300 ticks,Boom 300 Index
+235,1681699510,3,28,0,4,USD,USD,USD,On average 1 spike occurs in the price series every 300 ticks,Boom 300 Index
+359,1681699510,3,88,0,4,USD,USD,USD,On average 1 spike occurs in the price series every 500 ticks,Boom 500 Index
+77,1681699510,3,88,0,4,USD,USD,USD,On average 1 spike occurs in the price series every 500 ticks,Boom 500 Index
+323,0,2,0,0,4,XPD,USD,XPD,Palladium vs US Dollar,XPDUSD
+41,0,2,0,0,4,XPD,USD,XPD,Palladium vs US Dollar,XPDUSD
+443,0,2,0,0,4,USD,USD,USD,Paypal,PYPL
+161,0,2,0,0,4,USD,USD,USD,Paypal,PYPL
+440,0,2,0,0,4,USD,USD,USD,PepsiCo Inc,PEP
+158,0,2,0,0,4,USD,USD,USD,PepsiCo Inc,PEP
+441,0,2,0,0,4,USD,USD,USD,Pfizer,PFE
+159,0,2,0,0,4,USD,USD,USD,Pfizer,PFE
+324,0,2,0,0,4,XPT,USD,XPT,Platinum vs US Dollar,XPTUSD
+42,0,2,0,0,4,XPT,USD,XPT,Platinum vs US Dollar,XPTUSD
+523,0,3,0,10,4,USD,USD,USD,Polkadot vs US Dollar,DOTUSD
+241,0,3,0,10,4,USD,USD,USD,Polkadot vs US Dollar,DOTUSD
+528,0,5,0,10,4,USD,USD,USD,Polygon vs US Dollar,MTCUSD
+246,0,5,0,10,4,USD,USD,USD,Polygon vs US Dollar,MTCUSD
+535,0,2,0,0,4,EUR,EUR,EUR,Porsche Automobil Holding SE,PSHG
+253,0,2,0,0,4,EUR,EUR,EUR,Porsche Automobil Holding SE,PSHG
+493,0,2,0,0,4,USD,USD,USD,ProShares UltraPro QQQ CFD,TQQQ.US
+211,0,2,0,0,4,USD,USD,USD,ProShares UltraPro QQQ CFD,TQQQ.US
+492,0,2,0,0,4,USD,USD,USD,ProShares UltraShort 20+ Year Treasury CFD,TBT.US
+210,0,2,0,0,4,USD,USD,USD,ProShares UltraShort 20+ Year Treasury CFD,TBT.US
+487,0,2,0,0,4,USD,USD,USD,ProShares UltraShort QQQ ETF CFD,QID.US
+205,0,2,0,0,4,USD,USD,USD,ProShares UltraShort QQQ ETF CFD,QID.US
+488,0,2,0,0,4,USD,USD,USD,ProShares UltraShort S&P500 CFD,SDS.US
+206,0,2,0,0,4,USD,USD,USD,ProShares UltraShort S&P500 CFD,SDS.US
+442,0,2,0,0,4,USD,USD,USD,Procter & Gamble,PG
+160,0,2,0,0,4,USD,USD,USD,Procter & Gamble,PG
+536,0,2,0,0,4,EUR,EUR,EUR,Puma SE,PUMG
+254,0,2,0,0,4,EUR,EUR,EUR,Puma SE,PUMG
+457,0,4,0,10,4,USD,USD,USD,Ripple vs US Dollar,XRPUSD
+175,0,4,0,10,4,USD,USD,USD,Ripple vs US Dollar,XRPUSD
+563,0,8,0,10,4,USD,USD,USD,SHIBA vs US Dollar,SHBUSD
+281,0,8,0,10,4,USD,USD,USD,SHIBA vs US Dollar,SHBUSD
+474,0,2,0,0,4,USD,USD,USD,SPDR Dow Jones Industrial Average ETF Trust CFD,DIA.US
+192,0,2,0,0,4,USD,USD,USD,SPDR Dow Jones Industrial Average ETF Trust CFD,DIA.US
+479,0,2,0,0,4,USD,USD,USD,SPDR Gold Trust CFD,GLD.US
+197,0,2,0,0,4,USD,USD,USD,SPDR Gold Trust CFD,GLD.US
+558,0,4,0,10,4,USD,USD,USD,STEPN vs US Dollar,GMTUSD
+276,0,4,0,10,4,USD,USD,USD,STEPN vs US Dollar,GMTUSD
+412,0,2,0,0,4,USD,USD,USD,Salesforce.com Inc,CRM
+130,0,2,0,0,4,USD,USD,USD,Salesforce.com Inc,CRM
+505,0,3,0,0,4,XAG,EUR,XAG,Silver vs Euro,XAGEUR
+223,0,3,0,0,4,XAG,EUR,XAG,Silver vs Euro,XAGEUR
+321,0,3,0,0,4,XAG,USD,XAG,Silver vs US Dollar,XAGUSD
+39,0,3,0,0,4,XAG,USD,XAG,Silver vs US Dollar,XAGUSD
+512,0,3,0,0,0,XAG,USD,XAG,"Silver vs US Dollar, used for conversion, not for trading",XAGUSD.conv
+230,0,3,0,0,0,XAG,USD,XAG,"Silver vs US Dollar, used for conversion, not for trading",XAGUSD.conv
+349,0,3,0,0,4,SGD,JPY,SGD,Singapore Dollar vs Japanese Yen,SGDJPY
+67,0,3,0,0,4,SGD,JPY,SGD,Singapore Dollar vs Japanese Yen,SGDJPY
+529,0,3,0,10,4,USD,USD,USD,Solana vs US Dollar,SOLUSD
+247,0,3,0,10,4,USD,USD,USD,Solana vs US Dollar,SOLUSD
+444,0,2,0,0,4,USD,USD,USD,Sony Corporation,SONY
+162,0,2,0,0,4,USD,USD,USD,Sony Corporation,SONY
+386,0,2,0,0,4,EUR,EUR,EUR,Spain 35,ESP_35
+104,0,2,0,0,4,EUR,EUR,EUR,Spain 35,ESP_35
+491,0,2,0,0,4,USD,USD,USD,Spdr S&P 500 ETF CFD,SPY.US
+209,0,2,0,0,4,USD,USD,USD,Spdr S&P 500 ETF CFD,SPY.US
+463,0,5,0,10,4,USD,USD,USD,Stellar Lumens vs US Dollar,XLMUSD
+181,0,5,0,10,4,USD,USD,USD,Stellar Lumens vs US Dollar,XLMUSD
+295,0,3,0,0,4,CHF,JPY,CHF,Swiss Franc vs Japanese Yen,CHFJPY
+13,0,3,0,0,4,CHF,JPY,CHF,Swiss Franc vs Japanese Yen,CHFJPY
+462,0,5,0,10,4,USD,USD,USD,TRON vs US Dollar,TRXUSD
+180,0,5,0,10,4,USD,USD,USD,TRON vs US Dollar,TRXUSD
+502,0,2,0,0,4,USD,USD,USD,Technology Select Sector SPDR ETF CFD,XLK.US
+220,0,2,0,0,4,USD,USD,USD,Technology Select Sector SPDR ETF CFD,XLK.US
+446,0,2,0,0,4,USD,USD,USD,Tesla Inc,TSLA
+164,0,2,0,0,4,USD,USD,USD,Tesla Inc,TSLA
+445,0,2,0,0,4,USD,USD,USD,Teva Pharmaceutical Inds,TEVA
+163,0,2,0,0,4,USD,USD,USD,Teva Pharmaceutical Inds,TEVA
+503,0,2,0,0,4,GBP,GBP,GBP,UK 100,UK_100
+221,0,2,0,0,4,GBP,GBP,GBP,UK 100,UK_100
+393,0,2,0,0,4,USD,USD,USD,US 500,US_500
+111,0,2,0,0,4,USD,USD,USD,US 500,US_500
+312,1681699507,5,10,0,4,USD,CAD,USD,US Dollar vs Canadian Dollar,USDCAD
+30,1681699507,5,10,0,4,USD,CAD,USD,US Dollar vs Canadian Dollar,USDCAD
+379,1681699507,5,11,0,4,USD,CAD,USD,US Dollar vs Canadian Dollar micro (1 lot=1000 units),USDCADmicro
+97,1681699507,5,11,0,4,USD,CAD,USD,US Dollar vs Canadian Dollar micro (1 lot=1000 units),USDCADmicro
+332,1681699509,5,75,0,4,USD,CNH,USD,US Dollar vs Chinese Renminbi,USDCNH
+50,1681699509,5,75,0,4,USD,CNH,USD,US Dollar vs Chinese Renminbi,USDCNH
+350,1681699509,5,98,0,4,USD,HKD,USD,US Dollar vs Hong Kong Dollar,USDHKD
+68,1681699509,5,98,0,4,USD,HKD,USD,US Dollar vs Hong Kong Dollar,USDHKD
+351,1681696085,5,2972,0,4,USD,ILS,USD,US Dollar vs Israeli New Shekel,USDILS
+69,1681696085,5,2972,0,4,USD,ILS,USD,US Dollar vs Israeli New Shekel,USDILS
+314,1681699508,3,10,0,4,USD,JPY,USD,US Dollar vs Japanese Yen,USDJPY
+32,1681699508,3,10,0,4,USD,JPY,USD,US Dollar vs Japanese Yen,USDJPY
+381,1681699508,3,12,0,4,USD,JPY,USD,US Dollar vs Japanese Yen micro (1 lot=1000 units),USDJPYmicro
+99,1681699508,3,12,0,4,USD,JPY,USD,US Dollar vs Japanese Yen micro (1 lot=1000 units),USDJPYmicro
+333,1681699508,5,374,0,4,USD,MXN,USD,US Dollar vs Mexican Peso,USDMXN
+51,1681699508,5,374,0,4,USD,MXN,USD,US Dollar vs Mexican Peso,USDMXN
+334,1681699505,5,823,0,4,USD,NOK,USD,US Dollar vs Norwegian Krone,USDNOK
+52,1681699505,5,823,0,4,USD,NOK,USD,US Dollar vs Norwegian Krone,USDNOK
+335,1681699509,5,286,0,4,USD,PLN,USD,US Dollar vs Polish Zloty,USDPLN
+53,1681699509,5,286,0,4,USD,PLN,USD,US Dollar vs Polish Zloty,USDPLN
+352,1681474567,5,778548,0,0,USD,RUB,USD,US Dollar vs Russian Ruble,USDRUB
+70,1681474567,5,778548,0,0,USD,RUB,USD,US Dollar vs Russian Ruble,USDRUB
+353,1681699507,5,22,0,4,USD,SGD,USD,US Dollar vs Singapore Dollar,USDSGD
+71,1681699507,5,22,0,4,USD,SGD,USD,US Dollar vs Singapore Dollar,USDSGD
+337,1681699501,5,1076,0,4,USD,ZAR,USD,US Dollar vs South African Rand,USDZAR
+55,1681699501,5,1076,0,4,USD,ZAR,USD,US Dollar vs South African Rand,USDZAR
+336,1681699509,5,345,0,4,USD,SEK,USD,US Dollar vs Swedish Krona,USDSEK
+54,1681699509,5,345,0,4,USD,SEK,USD,US Dollar vs Swedish Krona,USDSEK
+313,1681699500,5,7,0,4,USD,CHF,USD,US Dollar vs Swiss Franc,USDCHF
+31,1681699500,5,7,0,4,USD,CHF,USD,US Dollar vs Swiss Franc,USDCHF
+380,1681699500,5,9,0,4,USD,CHF,USD,US Dollar vs Swiss Franc micro (1 lot=1000 units),USDCHFmicro
+98,1681699500,5,9,0,4,USD,CHF,USD,US Dollar vs Swiss Franc micro (1 lot=1000 units),USDCHFmicro
+354,1681699503,5,1200,0,4,USD,THB,USD,US Dollar vs Thai Baht,USDTHB
+72,1681699503,5,1200,0,4,USD,THB,USD,US Dollar vs Thai Baht,USDTHB
+355,1681699505,5,416,0,0,USD,TRY,USD,US Dollar vs Turkish Lira,USDTRY
+73,1681699505,5,416,0,0,USD,TRY,USD,US Dollar vs Turkish Lira,USDTRY
+392,0,2,0,0,4,USD,USD,USD,US Tech 100,US_100
+110,0,2,0,0,4,USD,USD,USD,US Tech 100,US_100
+541,0,3,0,0,4,USD,USD,USD,"USD vs equally weighted basket of (EUR,GBP,JPY,CAD,AUD)",USD Basket
+259,0,3,0,0,4,USD,USD,USD,"USD vs equally weighted basket of (EUR,GBP,JPY,CAD,AUD)",USD Basket
+447,0,2,0,0,4,USD,USD,USD,Uber Technologies Inc,UBER
+165,0,2,0,0,4,USD,USD,USD,Uber Technologies Inc,UBER
+530,0,4,0,10,4,USD,USD,USD,Uniswap vs US Dollar,UNIUSD
+248,0,4,0,10,4,USD,USD,USD,Uniswap vs US Dollar,UNIUSD
+494,0,2,0,0,4,USD,USD,USD,United States Natural Gas ETF CFD,UNG.US
+212,0,2,0,0,4,USD,USD,USD,United States Natural Gas ETF CFD,UNG.US
+497,0,2,0,0,4,USD,USD,USD,Vanguard 500 Index Fund ETF CFD,VOO.US
+215,0,2,0,0,4,USD,USD,USD,Vanguard 500 Index Fund ETF CFD,VOO.US
+495,0,2,0,0,4,USD,USD,USD,Vanguard Developed Markets Index Fund ETF CFD,VEA.US
+213,0,2,0,0,4,USD,USD,USD,Vanguard Developed Markets Index Fund ETF CFD,VEA.US
+499,0,2,0,0,4,USD,USD,USD,Vanguard Emerging Markets Stock Index Fund ETF CFD,VWO.US
+217,0,2,0,0,4,USD,USD,USD,Vanguard Emerging Markets Stock Index Fund ETF CFD,VWO.US
+496,0,2,0,0,4,USD,USD,USD,Vanguard Real Estate Index Fund ETF CFD,VNQ.US
+214,0,2,0,0,4,USD,USD,USD,Vanguard Real Estate Index Fund ETF CFD,VNQ.US
+498,0,2,0,0,4,USD,USD,USD,Vanguard Total Stock Market Index Fund ETF CFD,VTI.US
+216,0,2,0,0,4,USD,USD,USD,Vanguard Total Stock Market Index Fund ETF CFD,VTI.US
+564,0,4,0,10,4,USD,USD,USD,VeChain vs US Dollar,VECUSD
+282,0,4,0,10,4,USD,USD,USD,VeChain vs US Dollar,VECUSD
+448,0,2,0,0,4,USD,USD,USD,Visa,V
+166,0,2,0,0,4,USD,USD,USD,Visa,V
+449,0,2,0,0,4,USD,USD,USD,Wal-Mart Stores Inc,WMT
+167,0,2,0,0,4,USD,USD,USD,Wal-Mart Stores Inc,WMT
+391,0,2,0,0,4,USD,USD,USD,Wall Street 30,US_30
+109,0,2,0,0,4,USD,USD,USD,Wall Street 30,US_30
+418,0,2,0,0,4,USD,USD,USD,Walt Disney Company,DIS
+136,0,2,0,0,4,USD,USD,USD,Walt Disney Company,DIS
+357,0,3,0,0,4,USD,USD,USD,West Texas Intermediate,WTI_OIL
+75,0,3,0,0,4,USD,USD,USD,West Texas Intermediate,WTI_OIL
+542,0,3,0,0,4,USD,USD,USD,"XAU vs equally weighted basket of (USD,EUR,AUD,GBP,JPY)",Gold Basket
+260,0,3,0,0,4,USD,USD,USD,"XAU vs equally weighted basket of (USD,EUR,AUD,GBP,JPY)",Gold Basket
+531,0,5,0,10,4,USD,USD,USD,XTZ vs US Dollar,XTZUSD
+249,0,5,0,10,4,USD,USD,USD,XTZ vs US Dollar,XTZUSD
+458,0,3,0,10,4,USD,USD,USD,Zcash vs US Dollar,ZECUSD
+176,0,3,0,10,4,USD,USD,USD,Zcash vs US Dollar,ZECUSD
+510,0,2,0,0,4,XZN,USD,XZN,Zinc vs US Dollar,XZNUSD
+228,0,2,0,0,4,XZN,USD,XZN,Zinc vs US Dollar,XZNUSD
+453,0,2,0,0,4,USD,USD,USD,Zoom Video Communications Inc,ZM
+171,0,2,0,0,4,USD,USD,USD,Zoom Video Communications Inc,ZM
+419,0,2,0,0,4,USD,USD,USD,eBay Inc,EBAY
+137,0,2,0,0,4,USD,USD,USD,eBay Inc,EBAY
+481,0,2,0,0,4,USD,USD,USD,iShares Core MSCI Emerging Markets ETF CFD,IEMG.US
+199,0,2,0,0,4,USD,USD,USD,iShares Core MSCI Emerging Markets ETF CFD,IEMG.US
+483,0,2,0,0,4,USD,USD,USD,iShares Core S&P 500 ETF CFD,IVV.US
+201,0,2,0,0,4,USD,USD,USD,iShares Core S&P 500 ETF CFD,IVV.US
+472,0,2,0,0,4,USD,USD,USD,iShares Core US Aggregate Bond ETF CFD,AGG.US
+190,0,2,0,0,4,USD,USD,USD,iShares Core US Aggregate Bond ETF CFD,AGG.US
+476,0,2,0,0,4,USD,USD,USD,iShares MSCI EAFE ETF CFD,EFA.US
+194,0,2,0,0,4,USD,USD,USD,iShares MSCI EAFE ETF CFD,EFA.US
+475,0,2,0,0,4,USD,USD,USD,iShares MSCI Emerging Index Fund ETF CFD,EEM.US
+193,0,2,0,0,4,USD,USD,USD,iShares MSCI Emerging Index Fund ETF CFD,EEM.US
+485,0,2,0,0,4,USD,USD,USD,iShares Russell 2000 ETF CFD,IWM.US
+203,0,2,0,0,4,USD,USD,USD,iShares Russell 2000 ETF CFD,IWM.US
+484,0,2,0,0,4,USD,USD,USD,iShares S&P 500 Growth ETF CFD,IVW.US
+202,0,2,0,0,4,USD,USD,USD,iShares S&P 500 Growth ETF CFD,IVW.US
+489,0,2,0,0,4,USD,USD,USD,iShares Silver Trust CFD,SLV.US
+207,0,2,0,0,4,USD,USD,USD,iShares Silver Trust CFD,SLV.US
+482,0,2,0,0,4,USD,USD,USD,iShares core S&P Small-Cap ETF CFD,IJR.US
+200,0,2,0,0,4,USD,USD,USD,iShares core S&P Small-Cap ETF CFD,IJR.US
+480,0,2,0,0,4,USD,USD,USD,iShares iBoxx $ High Yield Corporate Bond ETF CFD,HYG.US
+198,0,2,0,0,4,USD,USD,USD,iShares iBoxx $ High Yield Corporate Bond ETF CFD,HYG.US
+486,0,2,0,0,4,USD,USD,USD,iShares iBoxx $ Inv Grade Corporate Bond ETF CFD,LQD.US
+204,0,2,0,0,4,USD,USD,USD,iShares iBoxx $ Inv Grade Corporate Bond ETF CFD,LQD.US
