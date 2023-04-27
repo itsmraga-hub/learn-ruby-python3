@@ -2,7 +2,7 @@ import psycopg2
 
 # establishing the connection
 conn = psycopg2.connect(
-   database="postgres", user='postgres', password='12345678', host='127.0.0.1', port= '5432'
+   database="todo_list", user='postgres', password='12345678', host='127.0.0.1', port= '5432'
 )
 conn.autocommit = True
 
@@ -27,5 +27,6 @@ cursor = conn.cursor()
 # Creating a table
 cursor.execute(sql_create_table)
 print("Table created successfully...")
+conn.commit()
 
 conn.close()
