@@ -7,10 +7,9 @@ def fibonacci(num):
         third_num = first_num + second_num
         print(second_num)
         j += 1
-        # temp = second_num
         first_num = second_num
         second_num = third_num
 
 
         
-fibonacci(100)
+fibonacci(10)
