@@ -1,7 +1,7 @@
 import psycopg2
 
 # Connect to the todolist database
-conn = psycopg2.connect(database="todo_list", user="postgres", password="$AFfil!at0r$")
+conn = psycopg2.connect(database="todo_list", user="postgres", password="12345678")
 
 def add_todo_item(task):
     cur = conn.cursor()
@@ -25,23 +25,27 @@ def list_todo_items():
     for row in rows:
         print(f"{row[0]}. {row[1]}")
 
-while True:
-    print("\nWelcome to Today's To Do List")
-    print("\tMENU")
-    print("\t1. Add Todo list item")
-    print("\t2. Delete ToDo item")
-    print("\t3. List Todo list")
-    print("\tPress 4 or 'Q' at any time to exit\n")
-    command = input("Enter a menu number: ")
-    if command == "1":
-        todo = input("Enter todo item: ")
-        add_todo_item(todo)
-    elif command == "2":
-        id = input("Enter item ID: ")
-        delete_todo_item(id)
-    elif command == "3":
-        list_todo_items()
-    elif command == "q" or command == "Q" or command == "4":
-        break
-    else:
-        print("Invalid command.")
+def main():
+    while True:
+        print("\nWelcome to Today's To Do List")
+        print("\tMENU")
+        print("\t1. Add Todo list item")
+        print("\t2. Delete ToDo item")
+        print("\t3. List Todo list")
+        print("\tPress 4 or 'Q' at any time to exit\n")
+        command = input("Enter a menu number: ")
+        if command == "1":
+            todo = input("Enter todo item: ")
+            add_todo_item(todo)
+        elif command == "2":
+            id = input("Enter item ID: ")
+            delete_todo_item(id)
+        elif command == "3":
+            list_todo_items()
+        elif command == "q" or command == "Q" or command == "4":
+            break
+        else:
+            print("Invalid command.")
+
+if __name__ == "__main__":
+    main()
