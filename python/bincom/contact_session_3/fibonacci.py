@@ -1,7 +1,6 @@
 def fibonacci(num):
     first_num = 0
     second_num = 1
-    print(first_num)
     j = 1
     while j <= num:
         third_num = first_num + second_num
