@@ -1,30 +1,21 @@
-# from selenium.webdriver import Chrome
+def main():
+    from selenium.webdriver import Firefox
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.firefox.options import Options
 
-# from selenium.webdriver.chrome.options import Options
+    opts = Options()
 
-# opts = Options()
-# # opts.set_headless()
-# browser = Chrome(options=opts)
-# browser.get('http://books.toscrape.com/')
+    driver = Firefox(options=opts)
 
-# element = browser.find_elements(By.Name, "h3")
+    url = 'http://books.toscrape.com'
+    driver.get(url)
 
-# print(browser)
-# print(element)
-# <h3><a href="catalogue/a-light-in-the-attic_1000/index.html" title="A Light in the Attic">A Light in the ...</a></h3>
+    books = driver.find_elements(By.TAG_NAME, 'h3')
 
-from urllib.request import urlopen
-import re
+    books_list = []
+    for book in books:
+        books_list.append(book.text)
 
 
-url = 'http://books.toscrape.com/'
-
-page = urlopen(url)
-
-html = page.read()
-html = html.decode("utf-8")
-
-# pattern = r'<h3>([A-Za-z]+)</h3>'
-pattern = r'<li>([A-Za-z]+)</li>'
-book_names = re.findall(pattern, html)
-print(book_names)
+if __name__ == "__main__":
+    main()
