@@ -7,14 +7,16 @@ def main():
 
     driver = Firefox(options=opts)
 
-    url = 'http://books.toscrape.com'
+    url = 'http://quotes.toscrape.com'
     driver.get(url)
 
-    books = driver.find_elements(By.TAG_NAME, 'h3')
+    books = driver.find_elements(By.CLASS_NAME, 'text')
 
     books_list = []
     for book in books:
         books_list.append(book.text)
+    
+    print(books_list[:20])
 
 
 if __name__ == "__main__":
